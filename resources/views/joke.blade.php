@@ -1,14 +1,3 @@
-{{-- <!DOCTYPE html>
-<html>
-<head>
-    <title>Programming Joke</title>
-</head>
-<body>
-    <h1>Programming Joke</h1>
-    <p>{{ $joke }}</p>
-</body>
-</html> --}}
-
 <!DOCTYPE html>
 <html lang="id">
 <head>
